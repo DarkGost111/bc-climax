@@ -23,4 +23,4 @@ client.user.setStatus("dnd")
 });
 
 
-client.login("Token");
+client.login("Njc1ODM0MzM2NDgxNzcxNTY1.Xj857A.gTvVNs3BlPPx3OxVMOIAOXslh3E");
